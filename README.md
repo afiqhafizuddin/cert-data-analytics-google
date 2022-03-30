@@ -38,3 +38,5 @@ First up, the analysts needed to define what the project would look like and wha
 2. **Prepare**
 
 It all started with solid preparation. The group built a timeline of three months and decided how they wanted to relay their progress to interested parties. Also during this step, the analysts identified what data they needed to achieve the successful result they identified in the previous step - in this case, the analysts chose to gather the data from an online survey of new employees. These were the things they did to prepare:
+
+- okay
